@@ -1,0 +1,53 @@
+
+    
+<style>
+
+
+h1 {
+  color: purple;
+  margin-left: 40px;
+}
+
+
+h1{
+   text-align: center;
+   border: 1px solid red;
+   border-radius: 370px;
+   font-family: ariel;
+   padding: 40px;
+   color: orange;
+   margin:20px;
+   
+
+}
+h2{
+
+ color:red; 
+ font-family: 'Lateef', cursive;
+}
+
+h4{
+color:red;
+font-family: 'Lateef', cursive;
+}
+
+
+
+p{
+color:red ; 
+margin-left: 40px;
+font-family: 'Lateef', cursive; 
+} 
+
+body {
+background-color: black;
+}
+
+
+
+</style>
+
+
+
+
+
